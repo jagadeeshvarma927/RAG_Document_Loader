@@ -8,9 +8,13 @@ pypdf
 faiss-cpu
 structlog
 PyMuPDF
+<<<<<<< HEAD
 pandas
 streamlit
 langchain-core[tracing]
 pytest
 streamlit
+=======
+
+>>>>>>> 56c689e19c3ea0f02e1a1c8d00d8c37d36a74c2e
 -e .

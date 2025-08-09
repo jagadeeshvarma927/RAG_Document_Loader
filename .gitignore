@@ -4,4 +4,9 @@ document_portal.egg-info
 venv/
 __pycache__/
 logs/
+<<<<<<< HEAD
 *.pyc
+=======
+*.pyc
+test.py
+>>>>>>> 56c689e19c3ea0f02e1a1c8d00d8c37d36a74c2e
